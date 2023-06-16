@@ -1,0 +1,15 @@
+C:\Skinet7\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Skinet7\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Skinet7\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Skinet7\Infrastructure\bin\Debug\net7.0\Core.dll
+C:\Skinet7\Infrastructure\bin\Debug\net7.0\Core.pdb
+C:\Skinet7\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Skinet7\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skinet7\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Skinet7\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Skinet7\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Skinet7\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Skinet7\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Skinet7\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Skinet7\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Skinet7\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
