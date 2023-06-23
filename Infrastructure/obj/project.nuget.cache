@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZH+rbTHdw0fi17KMHO4ycjJgQLkILoDD1H2HACHU7wgEwilrNMmmRb8DVJ9ohUtj0nbVb5U91xMK+lOWvPde4w==",
+  "dgSpecHash": "ezQtlTnpz4j/ZwxWR9F9/dEfKSzrltkaUFs5pwYZmauuXhsoswuCjdEfQgjmr2PqLSN6r3/gP0c7SXkJ/LOmQw==",
   "success": true,
-  "projectFilePath": "C:\\Skinet7\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "c:\\Skinet7\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
