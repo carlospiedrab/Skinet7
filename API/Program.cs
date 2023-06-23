@@ -17,12 +17,14 @@ app.UseMiddleware<ExceptionMiddleware>();
 app.UseStatusCodePagesWithReExecute("/errors/{0}");
 
 // Configure the HTTP request pipeline.
- app.UseSwagger();
- app.UseSwaggerUI();
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();
+
+app.UseCors("CorsPolicy");
 
 app.UseAuthorization();
 
@@ -39,7 +41,7 @@ try
 }
 catch (Exception ex)
 {
-    
+
     logger.LogError(ex, "An error ocurred during migration");
 }
 app.Run();
