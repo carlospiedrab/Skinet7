@@ -1,0 +1,11 @@
+<div>
+  <mat-paginator *ngIf="totalCount && pageSize" #paginator class="demo-paginator"
+  [length]="totalCount"
+  [pageSize]="pageSize" [showFirstLastButtons]="true" [pageSizeOptions]="[6,12,18]"
+  (page)="onPagerChanged($event)"
+  [pageIndex]="1" aria-label="Select page">
+</mat-paginator>
+
+</div>
+
+
