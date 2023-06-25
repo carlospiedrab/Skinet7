@@ -3974,11 +3974,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Skinet7\\API\\API.csproj",
+      "projectUniqueName": "C:\\Skinet7\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Skinet7\\API\\API.csproj",
+      "projectPath": "C:\\Skinet7\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "c:\\Skinet7\\API\\obj\\",
+      "outputPath": "C:\\Skinet7\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -4002,8 +4002,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Skinet7\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "c:\\Skinet7\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Skinet7\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Skinet7\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

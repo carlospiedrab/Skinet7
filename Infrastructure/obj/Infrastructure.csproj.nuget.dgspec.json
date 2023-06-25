@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Skinet7\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Skinet7\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "c:\\Skinet7\\Core\\Core.csproj": {
+    "C:\\Skinet7\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Skinet7\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Skinet7\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Skinet7\\Core\\Core.csproj",
+        "projectPath": "C:\\Skinet7\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "c:\\Skinet7\\Core\\obj\\",
+        "outputPath": "C:\\Skinet7\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -66,14 +66,14 @@
         }
       }
     },
-    "c:\\Skinet7\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Skinet7\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Skinet7\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Skinet7\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Skinet7\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Skinet7\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "c:\\Skinet7\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Skinet7\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -97,8 +97,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Skinet7\\Core\\Core.csproj": {
-                "projectPath": "c:\\Skinet7\\Core\\Core.csproj"
+              "C:\\Skinet7\\Core\\Core.csproj": {
+                "projectPath": "C:\\Skinet7\\Core\\Core.csproj"
               }
             }
           }
